@@ -15,6 +15,7 @@ We can transform a Grayscale image back to its color image.
 For this the grayscale image is first indexed to its RGB components. 
 The **gray2ind(grayscale_image)** function is used.
 This indexed image is then transformed into its colored image using a suitable **colormap** and using the **ind2rgb()** function.
+If a map does not contain enough colors for the image, pixels in image outside the range are mapped to the last color in the map.
 
 **Syntax:** 
 
