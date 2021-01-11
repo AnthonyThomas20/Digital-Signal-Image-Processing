@@ -1,4 +1,4 @@
-## Linear Convolution ##
+## Implementation of Linear Convolution ##
 
 Convolution is a mathematical operation used to express the relation between input and output of a LTI (Linear Time Invariant) system.
 It relates input, output and impulse response of a LTI system as:
