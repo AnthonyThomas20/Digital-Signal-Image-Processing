@@ -3,6 +3,7 @@
 int main()
 {
     int n1,n2,x1[10],x2[10],n,i,cir[10][10],j,k,value[10],v;
+    printf("\n-----Circular Convolution-----\n");
     printf("\nEnter length of first sequence: ");
     scanf("%d", &n1);
     printf("\nEnter the first sequence:\n");
