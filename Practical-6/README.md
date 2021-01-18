@@ -9,4 +9,3 @@ It has the same sample values as the original input sequence.
 The DFT is therefore said to be a frequency domain representation of the original input sequence.
 
 Discrete Time Fourier Transform (DTFT) is used when the signal is discrete in time and is periodic. It is given by the below formula:
-
