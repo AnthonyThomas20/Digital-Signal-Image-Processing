@@ -7,3 +7,6 @@ The interval at which the DFT is sampled is the reciprocal of the duration of th
 An inverse DFT is a Fourier series using the DTFT samples as coefficients of complex sinusoids at the corresponding DTFT frequencies. 
 It has the same sample values as the original input sequence.
 The DFT is therefore said to be a frequency domain representation of the original input sequence.
+
+Discrete Time Fourier Transform (DTFT) is used when the signal is discrete in time and is periodic. It is given by the below formula:
+
