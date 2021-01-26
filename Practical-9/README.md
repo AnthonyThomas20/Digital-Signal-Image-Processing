@@ -9,6 +9,9 @@ The transformation function used is always linear and monotonically increasing.
 Here, the lower values of the input image is mapped to 0 and the upper value is mapped to 255.
 All other intermediate values are reassigned new intensity values according to the following formula:
 
+![math](https://user-images.githubusercontent.com/54772502/105812202-be471600-5fd3-11eb-8e3f-9ba40b71f3ad.png)
+
+
 **2. Bit Plane Slicing**
 
 In bit plane slicing, we find out the contribution made by each bit to the final image.
